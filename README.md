@@ -56,3 +56,8 @@ Here are some ideas to get you started:
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimKU1018&layout=compact&show_icons=true&show_owner=true&hide_title=false&theme=nord&" />
   </a>
 </p>
+
+<div align="center">
+[![KimKu1018's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimKU1018&count_private=true&show_icons=true&theme=dracula)](https://github.com/KimKU1018)  
+</div>
+
