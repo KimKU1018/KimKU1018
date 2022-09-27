@@ -59,8 +59,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
 <br>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon%20aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=amazon ec2%20aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS RDS-527FFF?style=flat-square&logo=amazon rds%20aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS EC2-232F3E?style=flat-square&logo=amazon%20aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS RDS-232F3E?style=flat-square&logo=amazon%20aws&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/></a>
