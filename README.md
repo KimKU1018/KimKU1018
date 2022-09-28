@@ -24,14 +24,14 @@ Here are some ideas to get you started:
 ### 🏃🏻 Activities 
 </div>
 
-* Member of Unity 1th, programming club of KNU SW (2021.09 ~ 2022.09)
-* Member of SKT DEVOCEAN Young 1th (2022.07 ~ Current)
-* Developer team of KUSITMS 26th, Korean University Students IT, Management Society (2022.08 ~ Current)
-* Member of "42 MARU AI Chatbot System Entities" development team (2022.09)
-* Member of GDSC KNU 2th, Google Developer Student Clubs Kyungpook National University (2022.09 ~ Current)
-* Member of IT Book Study Club in SKT DEVOCEAN (2022.08 ~ Current)
-* Member of SpringBoot Study Club in KUSITMS (2022.09 ~ Current)
-* Member of Golang Study Club in KUSITMS (2022.09 ~ Current)
+* Member of [Unity](https://www.knu.ac.kr/wbbs/wbbs/main/main.action) 1th, programming club of KNU SW (2021.09 ~ 2022.09)
+* Member of [SKT DEVOCEAN](https://devocean.sk.com) Young 1th (2022.07 ~ Current)
+* Developer team of [KUSITMS](https://www.instagram.com/kusitms_official/) 26th, Korean University Students IT, Management Society (2022.08 ~ Current)
+* Member of [42 MARU](https://www.42maru.ai/en/) AI Chatbot System Entities development team (2022.09)
+* Member of [GDSC KNU](https://gdsc.community.dev/kyungpook-national-university/) 2th, Google Developer Student Clubs Kyungpook National University (2022.09 ~ Current)
+* Member of [IT Book Study Club](https://velog.io/@kimku1018/객체지향의-사실과-오해-Study-1) in SKT DEVOCEAN (2022.08 ~ Current)
+* Member of [SpringBoot Study Club](https://velog.io/@kimku1018/스프링-스터디-1주차) in KUSITMS (2022.09 ~ Current)
+* Member of [Golang Study Club](https://velog.io/@kimku1018/Golang-스터디with-큐시즘-개발팀-1주차) in KUSITMS (2022.09 ~ Current)
 * Member of Back-End Study Club in GDSC KNU (2022.10 ~ Current)
 * Leader of Algorithm Study Club in KNU (2022.10 ~ Current)
 
