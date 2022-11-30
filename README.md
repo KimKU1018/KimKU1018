@@ -17,6 +17,7 @@
 * Developer team of [KUSITMS](https://www.instagram.com/kusitms_official/) 26th, Korean University Students IT, Management Society (2022.08 ~ 2022.10)
 * Member of [42 MARU](https://www.42maru.ai/en/) AI Chatbot System Entities development team (2022.09)
 * Member of [GDSC KNU](https://gdsc.community.dev/kyungpook-national-university/) 2th, Google Developer Student Clubs Kyungpook National University (2022.09 ~ Current)
+* Product Manager/FE DEV of [4GATE-Groad](https://cafe.naver.com/kusitms) (2022.09 ~ 2022.10)
 * Member of [IT Book Study Club](https://velog.io/@kimku1018/객체지향의-사실과-오해-Study-1) in SKT DEVOCEAN (2022.08 ~ 2022.09)
 * Member of [SpringBoot Study Club](https://velog.io/@kimku1018/스프링-스터디-1주차) in KUSITMS (2022.09 ~ 2022.10)
 * Member of [Golang Study Club](https://velog.io/@kimku1018/Golang-스터디with-큐시즘-개발팀-1주차) in KUSITMS (2022.09 ~ 2022.10)
