@@ -70,6 +70,7 @@
 <img src="https://img.shields.io/badge/Visual studio code-007ACC?style=flat-square&logo=visual studio code&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Visual studio-5C2D91?style=flat-square&logo=visual studio&logoColor=white"/></a>
 <br>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
