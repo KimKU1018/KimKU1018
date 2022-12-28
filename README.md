@@ -32,6 +32,7 @@
   
 ### 🧑🏻‍💻 iOS STACK
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CocoaPods-EE3322?style=flat-square&logo=cocoapods&logoColor=white"/></a>
 
 ### 🙋🏻‍♂️ HAVE USED
 
