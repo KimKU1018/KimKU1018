@@ -31,7 +31,7 @@
 <div align="center">
   
 ### 🧑🏻‍💻 USED WELL
-<img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/></a>
 
 ### 🙋🏻‍♂️ HAVE USED
 
@@ -51,7 +51,10 @@
 <br>
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-37626?style=flat-square&logo=Jupyter&logoColor=white)
-
+<br>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-thebadge&logo=Spring&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/></a>
 
 
 ### 🛠 TOOL
@@ -59,6 +62,7 @@
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/GoLand-000000?style=flat-square&logo=GoLand&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CLion-000000?style=flat-square&logo=CLion&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/></a>
 <br>
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse ide&logoColor=white"/></a> 
@@ -78,12 +82,8 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/></a>
 
 
+
 ### 📚 NOW STUDYING
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-thebadge&logo=Spring&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a>
-<br>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Algorithm-00BCB4?style=flat-square&logo=TheAlgorithms&logoColor=white"/></a>
 </div>
