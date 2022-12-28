@@ -49,12 +49,13 @@
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white)
 <br>
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-37626?style=flat-square&logo=Jupyter&logoColor=white)
-<br>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-thebadge&logo=Spring&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/></a>
+<br>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-37626?style=flat-square&logo=Jupyter&logoColor=white)
+
 
 
 ### 🛠 TOOL
