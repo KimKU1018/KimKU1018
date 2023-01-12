@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-### iOS Developer KimKU!
+### iOS Developer KimKU1018!
 ### 🧑🏻‍💻 KNU Software 21
   </div>
 
