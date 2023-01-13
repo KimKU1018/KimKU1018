@@ -97,14 +97,14 @@
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
   <a href="https://github.com/KimKU1018">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimKU1018&layout=compact&show_icons=true&show_owner=true&hide_title=false&theme=nord&" />
+    <img align="center" src="https://github-readme-stats-cyan-one-72.vercel.app/api/top-langs/?username=KimKU1018&layout=compact&show_icons=true&show_owner=true&hide_title=false&theme=nord&" />
   </a>
 </p>
 
 <div align="center">
   <h3 align="center"> 🌟 My Github stats 🌟 </h3>
   
-[![KimKU1018's github stats](https://github-readme-stats.vercel.app/api?username=KimKU1018)](https://github.com/KimKU1018/github-readme-stats)
+[![KimKU1018's github stats](https://github-readme-stats-cyan-one-72.vercel.app/api?username=KimKU1018)](https://github.com/KimKU1018/github-readme-stats)
   
 </div>
 
