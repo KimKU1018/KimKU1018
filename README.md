@@ -104,7 +104,7 @@
 <div align="center">
   <h3 align="center"> 🌟 My Github stats 🌟 </h3>
   
-[![KimKu1018's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimKU1018&count_private=true&show_icons=true&theme=dracula)](https://github.com/KimKU1018)  
+[![KimKU1018's github stats](https://github-readme-stats.vercel.app/api?username=KimKU1018)](https://github.com/KimKU1018/github-readme-stats)
   
 </div>
 
