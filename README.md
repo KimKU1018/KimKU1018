@@ -9,6 +9,18 @@
 ---
 <div align="center">
   
+### 💻 Career 
+</div>
+
+* Intern of Business Developer in [Codeit](https://www.codeit.kr) (2023.03 ~ 2023.06)
+
+</div>
+
+---  
+
+---
+<div align="center">
+  
 ### 🏃🏻 Activities 
 </div>
 
